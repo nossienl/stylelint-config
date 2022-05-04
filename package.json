@@ -1,0 +1,27 @@
+{
+  "name": "stylelint-config",
+  "version": "1.0.0",
+  "description": "Sharable stylelint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nossienl/stylelint-config.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nossienl/stylelint-config/issues"
+  },
+  "homepage": "https://github.com/nossienl/stylelint-config#readme",
+  "peerDependencies": {
+    "postcss-scss": "^4.0.2",
+    "stylelint": "^14.8.2",
+    "stylelint-config-idiomatic-order": "^8.1.0",
+    "stylelint-config-standard": "^24.0.0",
+    "stylelint-scss": "^4.2.0"
+  }
+}
