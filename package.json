@@ -1,5 +1,5 @@
 {
-  "name": "@nossie/stylelint-config",
+  "name": "stylelint-config-nossie",
   "version": "1.0.0",
   "description": "Sharable stylelint config",
   "main": "index.js",
